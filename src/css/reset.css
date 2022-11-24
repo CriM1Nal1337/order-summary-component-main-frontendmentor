@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: hsl(224, 23%, 55%);
+}
+
+.btn{
+    border: none;
+    padding: 15px 95px;
+    border-radius: 10px;
+}
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }

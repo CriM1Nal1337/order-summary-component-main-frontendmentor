@@ -1,0 +1,49 @@
+@media (max-width: 545px) {
+    body{
+        background: url(../images/pattern-background-mobile.svg) no-repeat;
+        background-size: contain;
+        background-color: hsl(225, 100%, 94%);
+    }
+
+    .main{
+        width: 300px;
+        height: 500px;
+        margin: 30px;
+    }
+
+    .main .title{
+        width: 200px;
+    }
+
+    .main .title h1{
+        font-size: 20px;
+    }
+
+    .main .title p{
+        font-size: 12px;
+    }
+
+    .main img{
+        width: 300px;
+    }
+
+    .plan .plan-price{
+        padding: 0px;
+    }
+
+    .plan .sub-title{
+        font-size: 13px;
+    }
+
+    .plan img{
+        width: 60px;
+    }
+
+    .plan .change{
+        padding-left: 30px;
+    }
+
+    .btn{
+        padding: 10px 58px;
+    }
+}
